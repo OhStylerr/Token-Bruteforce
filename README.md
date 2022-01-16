@@ -47,5 +47,7 @@
 ---------------------------------------
 
 ### Contact
-Discord: 💎﹕ketsueki#6694
-YouTube: OhStylerr Beats
+* Discord: 💎﹕ketsueki#6694
+* YouTube: OhStylerr Beats
+* Instagram: @ohstylerr
+* Twitter: @ostylerr
