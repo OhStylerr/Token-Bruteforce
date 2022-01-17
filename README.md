@@ -40,9 +40,8 @@
 
 ### Milestones
 * 100 Stars - Notification when the token has been grabbed
-* 200 Stars - Payment, phone and email checker
-* 300 Stars - Token Nuker
-* 500 Stars - Chat bot to make the account less suspicious
+* 250 Stars - Payment, phone and email checker
+* 500 Stars - Token Nuker
 
 ---------------------------------------
 
