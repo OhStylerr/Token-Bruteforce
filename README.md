@@ -31,7 +31,7 @@
 
 ### Requirements
 * Brain
-* Python 3.6+
+* Python 3+
 * Windows 10+
 * Base64, Requests, Colorama, String, OS, Random Modules
 * Discord ID
